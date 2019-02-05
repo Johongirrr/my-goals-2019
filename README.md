@@ -1,6 +1,6 @@
 # All of my goals that I determined to accomplish in 2019
 
-1. Solving 1100 coding challenges and pushing to github.
+1. Solving 700 coding challenges and pushing to github.
 2. Being comfortable on front-end development.
 3. Doing calisthenics.
 4. Finishing Eloquent JavaScript.
